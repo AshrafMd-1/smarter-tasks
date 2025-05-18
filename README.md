@@ -1,5 +1,5 @@
 # Smart-Tasks
 
-A collaborative project task manager where users can create, assign, and track tasks efficiently.
+A Kanban-based project management tool where users can create projects, organise tasks using customizable tags and descriptions, and collaborate efficiently through comments. Ideal for teams to visually track progress, assign responsibilities, and manage workflows in a streamlined way.
 
-https://smarter-tasks-main.netlify.app/signin
+🔗 [Try it here](https://smarter-tasks.ares.ashrafmd.work)
