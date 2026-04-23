@@ -13,8 +13,8 @@ export default ({ mode }) => {
           enabled: true,
         },
         manifest: {
-          name: "Smarter Task Application",
-          short_name: "Smarter Task",
+          name: "Smarter Tasks",
+          short_name: "Smarter Tasks",
           icons: [
             {
               src: "/favicon.ico",
