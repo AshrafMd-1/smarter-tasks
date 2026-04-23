@@ -13,8 +13,8 @@ export default ({ mode }) => {
           enabled: true,
         },
         manifest: {
-          name: "Task-Tide Application",
-          short_name: "Task-Tide",
+          name: "Smarter Task Application",
+          short_name: "Smarter Task",
           icons: [
             {
               src: "/favicon.ico",
